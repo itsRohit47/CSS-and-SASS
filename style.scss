@@ -1,0 +1,7 @@
+@import "./variables.scss";
+@import "./header.scss";
+
+button {
+  background-color: $button-color;
+  color: $text-color;
+}

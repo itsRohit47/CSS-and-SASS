@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background-color: burlywood;
+}
+
+button {
+  background-color: green;
+  color: white;
+}/*# sourceMappingURL=style.css.map */

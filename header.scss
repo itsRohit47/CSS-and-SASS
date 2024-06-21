@@ -1,0 +1,10 @@
+@mixin MyFlex($direction) {
+  display: flex;
+  flex-direction: $direction;
+  gap: 2px;
+}
+
+header {
+  @include MyFlex(column);
+  background-color: burlywood;
+}
